@@ -1,0 +1,2 @@
+Build.BRAND=MTK
+persist.device_config.runtime_native.usap_pool_enabled=false
